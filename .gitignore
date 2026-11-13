@@ -3,7 +3,6 @@
 /public/storage
 /storage/*.key
 /vendor
-.env
 .env.backup
 /.phpunit.cache
 docker-compose.override.yml
@@ -15,7 +14,4 @@ yarn-error.log
 /public
 !/public/barcode-images
 !/public/import_demo_files
-temp_auto_push.bat
-temp_interactive_push.bat
-.gitignore
-branch_structure.json
+config.bat
